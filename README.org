@@ -1,0 +1,10 @@
+* cl-json-helper
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stablecross/cl-json-helper.git   |
+| commit  | e2ed238  |
+| systems | cl-json-helper |
+|---------+-------------------------------------------|
+
